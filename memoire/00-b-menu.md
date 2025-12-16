@@ -1,6 +1,6 @@
 # Sommaire
 
-0. [Synthèse exécutive (lecture jury)](00-c-synthese.md)
+0. [Synthèse exécutive — lecture jury (10 minutes)](00-c-synthese.md)
 1. [Compréhension du contexte et du périmètre du marché](01.md)
 2. [Description synthétique de l'architecture existante AQUAREEL](02.md)
 3. [Organisation générale des prestations](03.md)

@@ -25,7 +25,7 @@ Cette synthèse met en avant les points d'évaluation clés, avec des engagement
 ### 1.3 5 engagements “sans sur‑promesse” (garanties de méthode)
 
 - **Aucune évolution n'est lancée sans validation formelle de l'étape 2 (spécifications détaillées/conception)**.
-- **Aucune livraison n'est transmise comme “prête à déployer” sans** note de livraison, procédure d'installation, procédure de rollback et **rapport de tests de non‑régression**.
+- **Aucune livraison n'est transmise comme « prête à déployer » sans** note de livraison, procédure d'installation, procédure de rollback et **rapport de tests de non‑régression**.
 - **Toute modification SQL à impact potentiel (schéma / trigger / job / volumétrie) inclut** une analyse d'impact HD/réplication et un contrôle associé dans la campagne de tests.
 - **Toute difficulté pouvant impacter un délai contractuel est signalée** (ticket + alerte) avec options d'arbitrage (contournement, phasage, priorisation).
 - **La réversibilité est préparée en continu** (documentation, scripts, “rejouabilité” des livraisons sur environnement de test), afin d'éviter une réversibilité “théorique”.
