@@ -21,3 +21,5 @@
 
 - [Annexe A — Modèles de livrables (templates)](14.md)
 - [Annexe B — Matrice de conformité (CCTP/CCAP ↔ mémoire ↔ preuves)](15.md)
+- [Annexe C — Dispositif de renfort (profils + attestation)](16.md)
+- [Annexe D — Exemples concrets (runbooks, supervision, tests)](17.md)
