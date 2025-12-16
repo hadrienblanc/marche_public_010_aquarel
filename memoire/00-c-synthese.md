@@ -14,7 +14,7 @@ AQUAREEL est un système critique de collecte/exploitation hydrométrique. La r�
 - **Compatibilité systématique HD / réplication** : analyse d'impact dès les spécifications, checklist réplication, Go/No‑Go et rollback, contrôles dédiés sur plateforme HD. (cf. Chapitre 8, Annexe A.1)
 - **Traçabilité et pilotage “ticket‑first”** : un ticket = un historique (qualification, décisions, livrables, validations), suivi hebdo + COPIL mensuel, indicateurs partagés. (cf. Chapitre 7, Annexe A.6 / Annexe A.9)
 - **Livraisons reproductibles et auditables** : note de livraison, scripts, procédure d'installation, procédure de rollback, documentation mise à jour, empreintes d'intégrité. (cf. Chapitre 6, Annexe A.1)
-- **Continuité malgré un titulaire unique** : capitalisation, runbooks, renfort identifié activable, validations finales conservées par le titulaire. (cf. Chapitre 11)
+- **Continuité malgré un titulaire unique** : plan de continuité de la prestation, runbooks, deux renforts pré‑positionnés (pilotage + technique) mobilisables sous 48h ouvrées, validations finales conservées par le titulaire. (cf. Chapitre 11)
 
 ## 3) Où sont les preuves ? (raccourcis jury)
 
